@@ -5,7 +5,7 @@
     <h1 align="center">
         hallo zusammen wilkommen auf meiner website
         سلام به همگی ب وبسایت من خوش اومدید
-        <img src="kapili.jpg" alt="kapili" width="300px" height="450px" align="right">
+        <img src="kapili.jpg" alt="" width="200px" height="250حطpx" align="right">
     </h1>
     <hr width="50%">
     <h1>
@@ -57,90 +57,14 @@ Ein Esslöffel Safran
     <hr>
     <hr>
     <hr>
-    <hr> 
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr> 
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
+    <h>
     <h1 dir="rtl">مرحله دوم</h1>گوشت را که به قطعات سه سانتی‌متری تقسیم کرده‌اید به پیاز داغ اضافه کنید و تفت دهید تا رنگ آن تیره شده و آب گوشت جمع شود. حالا مقداری آب جوش اضافه کنید و بگذارید با حرارت زیاد بپزد. سپس حرارت را کم کنید، درِ ظرف را ببندید و یک ساعت به گوشت اجازه دهید تا بپزد. یک ربع تا نیم ساعت قبل از پخت کامل گوشت، به آن نمک اضافه کنید و اجازه دهید آب آن خیلی کم یا کاملا جمع شود.
     <img src="./palaw.jpg" alt="palaw photo"
     width="200px" height="300px" align="left">
     <img src="./coca.jpg" alt="coca"
     width="300px" height="400px" align="right">
     <hr>
-    <hr> 
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr> 
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
-    <hr>
+    <hr
     <h1>
         <h1 dir="rtl">مرحله سوم</h1>
         <li>
