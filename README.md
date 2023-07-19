@@ -1,10 +1,10 @@
- <html>
+<html>
     <head>
         <title>hallo alles zusammen</title>
     </head>
     <body bgcolor="" style="background-color: rgb(60,230,8);"
         
-    </body>
+    
     <h1 dir="rtl" align="center">
         hallo zusammen wilkommen auf meiner website
         سلام به همگی ب وبسایت من خوش اومدید
@@ -92,6 +92,10 @@ Ein Esslöffel Safran
         <textarea name="comment" id="" cols="30" rows="10"></textarea>
         <li align="center">
            <mark> bache ha khoshal misham nazareton communt konin.</mark>
+           <li>
+            <a align="right"
+             href="">boro bala</a>
+           </li>
         </li>
 
         </li>
@@ -107,6 +111,12 @@ Ein Esslöffel Safran
        
      
 
-</html>  
+</html>
+</body>
+    
+    
 
-   
+    
+
+
+ 
