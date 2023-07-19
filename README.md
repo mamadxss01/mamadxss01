@@ -1,7 +1,15 @@
-<html>
+   
+
+
+       
+     
+    <html>
     <head>
         <title>hallo alles zusammen</title>
     </head>
+    <body bgcolor="" style="background-color: rgb(60,230,8);"
+        
+    </body>
     <h1 dir="rtl" align="center">
         hallo zusammen wilkommen auf meiner website
         سلام به همگی ب وبسایت من خوش اومدید
@@ -104,11 +112,6 @@ Ein Esslöffel Safran
        
      
 
-</html>    
-
-
-       
-     
-    
+</html>
 
     
