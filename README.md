@@ -1,9 +1,4 @@
-   
-
-
-       
-     
-    <html>
+ <html>
     <head>
         <title>hallo alles zusammen</title>
     </head>
@@ -112,6 +107,6 @@ Ein Esslöffel Safran
        
      
 
-</html>
+</html>  
 
-    
+   
