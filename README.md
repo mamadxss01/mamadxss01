@@ -6,8 +6,20 @@
         hallo zusammen wilkommen auf meiner website
         سلام به همگی ب وبسایت من خوش اومدید
         <li>
-            <audio src="./Puzzle Band - Faghat Khodet.mp3" controls>
-            </audio>
+            <body>
+                <audio src="./Amir Noori - To Rafti.mp3" controls>
+                </audio>
+                <audio controls>
+                    <source src="./Mohsen Yeganeh - Dele Tanha.mp3" type="audio/
+                    mpeg">
+                    <source src="./Puzzle Band - Faghat Khodet.mp3" type="audio/
+                    ogg">
+
+                
+        
+    
+
+
         </li>
     <li>
         <a href="#mah1">مرحله اول</a>
@@ -107,12 +119,12 @@ Ein Esslöffel Safran
 
 
        
-     
-
+        </audio>
+    </body>
 </html>
-    
 
     
 
+    
 
  
