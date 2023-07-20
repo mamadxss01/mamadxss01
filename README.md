@@ -1,26 +1,15 @@
 <html>
     <head>
+        <style>
+            body{
+      background-color: #123456;}
+            
+        </style>
         <title>hallo alles zusammen</title>
     </head>
     <h1 dir="rtl" align="center">
         hallo zusammen wilkommen auf meiner website
         سلام به همگی ب وبسایت من خوش اومدید
-        <li>
-            <body>
-                <audio src="./Amir Noori - To Rafti.mp3" controls>
-                </audio>
-                <audio controls>
-                    <source src="./Mohsen Yeganeh - Dele Tanha.mp3" type="audio/
-                    mpeg">
-                    <source src="./Puzzle Band - Faghat Khodet.mp3" type="audio/
-                    ogg">
-
-                
-        
-    
-
-
-        </li>
     <li>
         <a href="#mah1">مرحله اول</a>
     </li>
@@ -112,19 +101,13 @@ Ein Esslöffel Safran
     <li>
 
     </li>
-
     
 
     
 
 
        
-        </audio>
-    </body>
+     
+
 </html>
-
-    
-
-    
-
  
