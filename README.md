@@ -1,5 +1,5 @@
 <html>
-    <head dir=>
+    <head>
         <link rel="stylesheet" href="./style.css">
         <title>hello guys</title>
     </head>
