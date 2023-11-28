@@ -2,7 +2,7 @@
     <head>
         <style>
             body{
-                background: linear-gradient(to right,white,red);
+                background: linear-gradient(to right, white,red);
             }
         </style>
         <link rel="stylesheet" href="./style.css">
@@ -46,6 +46,7 @@
         <li>
             <a href="https://youtube.com/@programmingwithmosh"><big>moshhamedani</big></a>
         </li>
+        <hr>
         <br>
         <a href="https://www.instagram.com/p/CsJbYZVoOO6XnheqDailN5iHktCGeyEpYZUQew0/?igshid=MzRlODBiNWFlZA==">main instagramm</a>
         <br>
