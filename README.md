@@ -2,7 +2,7 @@
     <head>
         <style>
             body{
-                background: linear-gradient(to right,#129874,red);
+                background: linear-gradient(to right,white,red);
             }
         </style>
         <link rel="stylesheet" href="./style.css">
