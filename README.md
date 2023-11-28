@@ -41,16 +41,17 @@
             <a href="https://javascript.info/"><big>javascript</big></a>
         </li>
         <p>زبان برنامه نویسی جاوا اسکریپت یکی از محبوب ترین زبان های برنامه نویسی می باشد که بیشتر برای طراحی و توسعه نرم افزار های تحت وب مورد استفاده قرار میگیرد. با استفاده از جاوا اسکریپت می توانید تعامل بیشتری بین کاربر و صفحه وب ایجاد کنید و همین موضوع نیز باعث شده تا پیشرفت های گسترده ای در زمینه بهبود رابط کاربری با استفاده از جاوا اسکریپت به وجود بیاید.</p>
-        <hr>
+        <br>
         <h1 dir="rtl">این کانال هم با4میلیون عضوبهترین ویدعوهایی درمورد دنیای برنامه نویسی رو آموزش میده<big></big></h1>
         <li>
             <a href="https://youtube.com/@programmingwithmosh"><big>moshhamedani</big></a>
         </li>
-        <hr>
-        main instagram:https://www.instagram.com/p/CsJbYZVoOO6XnheqDailN5iHktCGeyEpYZUQew0/?igshid=MzRlODBiNWFlZA==
         <br>
-        main tiktok:https://www.tiktok.com/@owasp1000?_t=8hjzSn95CTZ&_r=1
+        <a href="https://www.instagram.com/p/CsJbYZVoOO6XnheqDailN5iHktCGeyEpYZUQew0/?igshid=MzRlODBiNWFlZA==">main instagramm</a>
         <br>
+        <a href="https://www.tiktok.com/@owasp1000?_t=8hjzSn95CTZ&_r=1">main tiktok</a>
+        <br>
+        <a href="https://wa.link/nkgb7u">main whatsup</a>
         <img src="./anony.jpeg" alt="" id="m1">
         <br>
         
