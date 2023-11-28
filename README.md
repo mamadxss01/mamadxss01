@@ -2,7 +2,7 @@
     <head>
         <style>
             body{
-                background-color: aqua;
+                background: linear-gradient(to right,#129874,red);
             }
         </style>
         <link rel="stylesheet" href="./style.css">
@@ -10,7 +10,7 @@
     </head>
     <body>
     
-        <h1 align="center"> you are welcome</h1>
+        <h1 align="center"><big>programming with mohamad</big></h1>
         <h1 dir="rtl">معرفی بهترین سایت برای آموزش HTML وCss</h1>
         <li>
             <a href="https://www.w3schools.com/w3css/w3css_fonts.asp"><big>w3schools</big></a>
@@ -47,8 +47,12 @@
             <a href="https://youtube.com/@programmingwithmosh"><big>moshhamedani</big></a>
         </li>
         <hr>
-        <textarea name="comment" id="" cols="30" rows="10">you can insert a comment!</textarea>
-        <input type="submit" value="send">
+        main instagram:https://www.instagram.com/p/CsJbYZVoOO6XnheqDailN5iHktCGeyEpYZUQew0/?igshid=MzRlODBiNWFlZA==
+        <br>
+        main tiktok:https://www.tiktok.com/@owasp1000?_t=8hjzSn95CTZ&_r=1
+        <br>
+        <img src="./anony.jpeg" alt="" id="m1">
+        <br>
         
         
  
